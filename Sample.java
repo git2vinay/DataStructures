@@ -7,7 +7,7 @@ class Sample
       System.out.println(" this is good,edited from the git");
       LinkedList<String> list=new LinkedList<String>();
       list.add("Test");
-      System.out.println("Linked List"+list);
+      System.out.println("Linked List test"+list);
   }
 
 }
